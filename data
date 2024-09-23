@@ -1,0 +1,28 @@
+const inventory = {
+  "Brown Flag Box": {
+    "items": [
+      { "name": "18\" x 48\" Flags", "quantity": 4 },
+      { "name": "24\" x 36\" Single Nets", "quantity": 4 },
+      { "name": "24\" x 30\" Double Nets", "quantity": 4 },
+      { "name": "24\" x 36\" Silk", "quantity": 1 },
+      { "name": "24\" x 36\" Flags", "quantity": 4 },
+      { "name": "18\" x 24\" Flags", "quantity": 3 },
+      { "name": "12\" x 18\" Flags", "quantity": 4 },
+      { "name": "12\" x 18\" Single Nets", "quantity": 2 },
+      { "name": "12\" x 18\" Double Nets", "quantity": 2 },
+      { "name": "Art Cards", "quantity": null }
+    ]
+  },
+  "ARRI 1K Crate": {
+    "items": [
+      { "name": "ARRI 1K Light", "quantity": 1 },
+      { "name": "1K Barn Doors", "quantity": 1 },
+      { "name": "Single Scrim 1K", "quantity": 1 },
+      { "name": "1/2 Scrim 1K", "quantity": 1 },
+      { "name": "Gel Holder 1K", "quantity": 1 },
+      { "name": "1K Bulb", "quantity": 1 },
+      { "name": "Gloves", "quantity": 1 }
+    ]
+  },
+  // Add other kits/bags/cases here...
+};
